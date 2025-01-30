@@ -7,7 +7,7 @@ Este repositório contém a implementação do clássico **Jogo da Cobra (Snake 
 2. Clone este repositório ou baixe os arquivos.
 3. Execute o jogo com o seguinte comando:
    ```bash
-   python main.py
+   python3 main.py
    ```
 4. Use as **setas do teclado** para mover a cobra:
    - ⬆️ **Seta para cima**: Move para cima
